@@ -24,9 +24,9 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "[ * ] • A N Y A",
-  "ownerlink": "https://www.facebook.com/Asmit011",
-  "prefix": "*",
+  "nickNameBot": "Asta😁",
+  "ownerlink": "",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
