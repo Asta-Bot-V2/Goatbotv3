@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "kakashi310@exdonuts.com",
-    "password": "Anya@11",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61556291038049"
+    "100062160914296"
   ],
   "whiteListMode": {
     "enable": false,
