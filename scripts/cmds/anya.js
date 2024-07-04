@@ -1,7 +1,7 @@
 const axios = require("axios")
 module.exports = {
 	config: {
-		name: 'anya',
+		name: 'astasim',
 		version: '1.2',
 		author: 'Xemon',
 		countDown: 15,
