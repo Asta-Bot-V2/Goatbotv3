@@ -74,4 +74,4 @@ function installScript(fileName, content, message) {
       console.error(error);
       message.reply('❌ An error occurred while installing the command file.');
     });
-        
+    }
